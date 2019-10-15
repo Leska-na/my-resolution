@@ -2,3 +2,5 @@ Resolusi yang ingin dicapai sebelum tahun 2020
 - Memahami konsep MVC
 - Memahami framework Laravel
 - Membuat project sederhana menggunakan Laravel
+- Membuat project dengan team menggunakan framework Laravel
+- Membangun sistem website dengan team 
